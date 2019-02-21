@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "644306146947",
+    "firebase_url": "https://cylinder-mate.firebaseio.com",
+    "project_id": "cylinder-mate",
+    "storage_bucket": "cylinder-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644306146947:android:c4c46fb7a04b0795",
+        "android_client_info": {
+          "package_name": "com.example.user.cylindermate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644306146947-35bhjk1qbo8f325kolejj6rslkcte6s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.cylindermate",
+            "certificate_hash": "9499c7a93b3f6a89feec087e10dce57b756701d5"
+          }
+        },
+        {
+          "client_id": "644306146947-p7a27hh3jb6mrhqk8ipdboaamfgvvcht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAL-QT6gsXf-AI92YThIKtgPPQyQCHkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644306146947-p7a27hh3jb6mrhqk8ipdboaamfgvvcht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
